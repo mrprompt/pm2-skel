@@ -2,13 +2,6 @@
 
 Projects PM2 configurations.
 
-## 1st read this:
-
-```
-http://pm2.keymetrics.io/docs/usage/application-declaration/
-http://pm2.keymetrics.io/docs/usage/deployment/
-```
-
 ## Configuring
 
 To add a project for management, create a javascript file with extension 
