@@ -1,0 +1,28 @@
+{
+  "name": "pm2-skel",
+  "version": "1.0.0",
+  "description": "Applications management and deploy with pm2",
+  "main": "ecosystem.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrprompt/pm2-skel.git"
+  },
+  "keywords": [
+    "pm2",
+    "nodejs",
+    "applications",
+    "management"
+  ],
+  "author": "Thiago Paes <mrprompt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrprompt/pm2-skel/issues"
+  },
+  "homepage": "https://github.com/mrprompt/pm2-skel#readme",
+  "dependencies": {
+    "pm2": "^2.7.2"
+  }
+}
