@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/mrprompt/pm2-skel#readme",
   "dependencies": {
-    "pm2": "^2.7.2"
+    "pm2": "^5.2.2"
   }
 }
